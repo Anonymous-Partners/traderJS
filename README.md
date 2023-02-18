@@ -1,4 +1,4 @@
-# traderJS
+# tradovate traderJS
 Lightweight common nodejs module for placing orders through Tradovate's API.
 # Installaton
 1) Download the trader.js file and place it in your project directory
